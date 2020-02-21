@@ -1,0 +1,9 @@
+{
+  "name": "learn-jwt-auth",
+  "version": "1.0.0",
+  "description": "Experimenttal app to learn how to do auth using jwt",
+  "main": "index.ts",
+  "repository": "https://github.com/vickean/learn-jwt-auth",
+  "author": "vickean <vickean@gmail.com>",
+  "license": "MIT"
+}
